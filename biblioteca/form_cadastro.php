@@ -25,11 +25,11 @@
             </div>
 
             <div class="mb-3">
-                <input placeholder="digite o autor do livro" type="text"  name= "autor" class="form-control">
+                <input placeholder="digite o ano do livro" type="text"  name= "ano" class="form-control">
             </div>
 
             <div class="mb-3">
-                <input placeholder="digite o ano do livro" type="text" name= "ano" class="form-control">
+                <input placeholder="digite o autor do livro" type="text" name= "autor" class="form-control">
             </div>
 
             <div class="mb-3">
